@@ -1,0 +1,22 @@
+{
+  "name": "@bablr/stream-iterator",
+  "description": "A sync-propagating, async-propagating iteration protocol for efficient abstract data transfer",
+  "version": "0.0.0",
+  "author": "Conrad Buck<conartist6@gmail.com>",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "exports": {
+    ".": "./lib/index.js",
+    "./register": "./lib/register.js",
+    "./symbol": "./lib/symbol.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "repository": "github:bablr-lang/stream-iterator",
+  "homepage": "https://github.com/bablr-lang/stream-iterator",
+  "license": "MIT"
+}
