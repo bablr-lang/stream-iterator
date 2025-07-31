@@ -1,7 +1,7 @@
 {
   "name": "@bablr/stream-iterator",
   "description": "A sync-propagating, async-propagating iteration protocol for efficient abstract data transfer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Conrad Buck<conartist6@gmail.com>",
   "type": "module",
   "files": [
