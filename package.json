@@ -16,7 +16,10 @@
   "devDependencies": {
     "prettier": "^2.6.2"
   },
-  "repository": "github:bablr-lang/stream-iterator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bablr-lang/stream-iterator.git"
+  },
   "homepage": "https://github.com/bablr-lang/stream-iterator",
   "license": "MIT"
 }
