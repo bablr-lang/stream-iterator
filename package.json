@@ -14,7 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#7ed9709da28e99dd036e067ef6274b7ff9c00f75",
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#23b94fb3bdfdbc3ac7ed9cb58d7979d8f07dce2b",
     "prettier": "^2.6.2",
     "eslint": "^7.32.0"
   },
