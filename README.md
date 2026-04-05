@@ -5,7 +5,6 @@ Defines a stream iterator, being an iterator object whose `next` method returns 
 ## Usage
 
 ```js
-import '@bablr/stream-iterator/register';
 import { streamIteratorSymbol } from '@bablr/stream-iterator';
 
 // register defines this well-known symbol
